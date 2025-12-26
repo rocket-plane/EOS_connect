@@ -1,5 +1,7 @@
 # EOS Connect
 
+** This an unmaintained Fork **
+
 **EOS Connect** is an open-source tool for intelligent energy management and optimization.  
 It supports two optimization backends: the full-featured Akkudoktor EOS (default) and the lightweight EVopt (optional, very fast).  
 EOS Connect fetches real-time and forecast data, processes it via your chosen optimizer, and controls devices to optimize your energy usage and costs.
